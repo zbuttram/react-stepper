@@ -13,14 +13,6 @@
     "type": "git",
     "url": "https://github.com/mu29/react-stepper.git"
   },
-  "keywords": [
-    "facebook",
-    "react",
-    "component",
-    "react-component",
-    "stepper",
-    "step"
-  ],
   "author": "InJung Chung <mu29@yeoubi.net>",
   "license": "MIT",
   "bugs": {
