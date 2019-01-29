@@ -24,14 +24,16 @@
     "babel-loader": "^6.2.5",
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-react": "^6.16.0",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "prop-types": "^15.5.10",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   },
   "engines": {
     "node": ">= 5.11.0"
   },
-  "dependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
   }
 }
